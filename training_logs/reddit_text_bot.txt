@@ -1,0 +1,158 @@
+reddit_text_bot training log
+----------------------------
+
+epoch 1
+-------
+lr = 0.001
+loss = 5.0079
+batch_size = 96
+
+Generated sentences:
+n_vary = 2
+1. What is your point?
+2. I think the problem is that the problem is that the problem with the `` `` `` ``'''' is a good thing.
+3. It is a very good way for the time to get a lot more than the same.
+
+epoch 2
+-------
+lr = 0.001
+loss = 4.7130
+batch_size = 96
+
+Generated sentences:
+n_vary = 3
+1. There is a very good way to do the same.
+2. I'm not a bit of a problem.
+3. What are you?
+
+epoch 3
+-------
+lr = 0.0001
+loss = 4.6935
+batch_size = 96
+
+Generated sentences:
+n_vary = 3
+1. We're all of our own.
+2. But if it is the case, the study has to do with the fact they're talking to them as well.
+3. But the problem in the article has a lot more than the article.
+
+epoch 4 (data size increased by about 3%)
+-------
+lr = 0.001
+loss = 4.9368
+batch_size = 96
+
+Generated sentences:
+n_vary = 3
+1. This study was a very small amount for a lot to have a very high risk for the brain and a few times.
+2. A lot more than the other I've been looking at, but I think the study wouldn't have to be done with the "the same" thing.
+3. That's the reason that it is a very good way for me.
+
+epoch 5
+-------
+lr = 0.001
+loss = 4.7661
+batch_size = 128
+
+Generated sentences:
+n_vary = 3
+1. It seems that it's a lot easier for the brain.
+2. I'm sure you're right.
+3. That does not seem to me.
+
+epoch 6
+-------
+lr = 0.001
+loss = 4.6708
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. There are many studies on the topic.
+2. If the patient's body wasn't the only thing they were doing.
+3. I do think the same way as the other, I wouldn't say that the same is the case, and the study wasn't the only thing that could be a bit of the same.
+
+epoch 7 (data size increased by ~3%)
+-------
+lr = 0.001
+loss = 4.8663
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. I think that's a good idea.
+2. In the case that the brain is a very small and high risk, it is not the case.
+3. This study is a good thing to see.
+
+epoch 8 (data size increased by ~0.03%)
+-------
+lr = 0.001
+loss = 4.7400
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. That said, the study says "we are not going through the same thing".
+2. That is a good thing to do with this, and the study says it was the same as a few years ago, but it isn't a problem with the fact.
+3. But the study has been shown that the results are not a good term.
+
+epoch 9
+-------
+lr = 0.001
+loss = 4.6535
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. How does the research of the study say this, and how much is this.
+2. I'm sure there are any other issues in the past few decades, but it isn't the same.
+3. So the study was done by a study where they found a way of the same thing as the same thing as a person's body.
+
+epoch 10
+-------
+lr = 0.001
+loss = 4.6253
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. But it is a good thing to do, and I think the study was not a good thing.
+2. This study was found to have been done with the same thing.
+3. We have been in a few years now and I've never seen a lot more than a few years of life.
+
+epoch 11
+-------
+lr = 0.0002
+loss = 4.6069
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. This wasn't really true.
+2. They're not a good way for a lot.
+3. It's just a lot more than a few times a day.
+
+epoch 12
+-------
+lr = 0.00005
+loss = 4.6023
+batch_size = 192
+
+Generated sentences:
+n_vary = 3
+1. You are right, but the study is a bit more likely.
+2. If the patient has to do it, it wouldn't have a chance to be a good thing, but I think that the way you don't know what's going is to say "it's a matter", and it does not mean that you are not a "bad" thing.
+3. I do think the difference is that the brain isn't the same as the same as a single person.
+
+epoch 13-15
+-----------
+lr = 0.00001
+loss = 4.6015, 4.6010, 4.6009
+batch_size = 192
+
+Generated sentences (after epoch 15):
+n_vary = 3
+1. If you have to go into a way to get the money to your own, it would be interesting.
+2. If the person has a good chance to make it more difficult, it would be a bit of an important part.
+3. In the past, the study was done by the study, but it's not the same as the study, and the study was not.
